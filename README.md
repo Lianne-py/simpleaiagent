@@ -1,4 +1,4 @@
-this are small python scripts used to build ai agents from LLM apis.
+these are small python scripts used to build ai agents from LLM apis.
 the apis are from ideally form anthropic/claude which are priced at an amount in USD.
 The other script is about a gemini api key which is free, it uses a free-tier allowance and allows you to use a ceratin amount of tokens per day.
 
